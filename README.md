@@ -93,21 +93,21 @@
   <table>
     <tr>
       <td align="center">
-        <img src="screenshots/dashboard.png" alt="Система и Диски" width="420"><br>
+        <img src="dashboard.png" alt="Система и Диски" width="420"><br>
         <sub><b>📊 Система, характеристики и все диски</b></sub>
       </td>
       <td align="center">
-        <img src="screenshots/cleaner.png" alt="Очистка и ОЗУ" width="420"><br>
+        <img src="cleaner.png" alt="Очистка и ОЗУ" width="420"><br>
         <sub><b>🧹 Глубокая очистка и RAM Boost</b></sub>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="screenshots/tweaks.png" alt="Системные твики" width="420"><br>
+        <img src="tweaks.png" alt="Системные твики" width="420"><br>
         <sub><b>⚡ 30+ Системных твиков</b></sub>
       </td>
       <td align="center">
-        <img src="screenshots/fixes.png" alt="Центр фиксов ОС" width="420"><br>
+        <img src="fixes.png" alt="Центр фиксов ОС" width="420"><br>
         <sub><b>🛠️ 12 Автоматических фиксов Windows</b></sub>
       </td>
     </tr>
